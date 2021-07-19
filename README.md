@@ -5,7 +5,7 @@ V. Isualize requires more analysis on the Pyber data.  The analysis requires a n
 ## Results
 They are 4 main trends we noticed in the weekly fare plot shown below.   
   
-  [weekly_Fares.png](https://github.com/rick2stack/PyBer_Analysis/blob/main/Analysis/weekly_Fares.png).  
+  ![weekly_Fares.png](https://github.com/rick2stack/PyBer_Analysis/blob/main/Analysis/weekly_Fares.png).  
     
 
 1. The first noticiable trend was that the highest weekly fare were in the urban city type, followed by the suburban, and then rural through the 4-month period.
