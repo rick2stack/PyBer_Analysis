@@ -17,5 +17,5 @@ They are 4 main trends we noticed in the weekly fare plot shown below.
 4. Lastly, the urban and rural weekly fares seem to be slowing down while the suburban city type shows an up trend for the month of May.  
 
 ## Summary 
-Based on the pybear data analysis, it looks like holidays can create uptrends for each city type.  A further analysis can be done to see which holidays respond to each city type the best.  The most impactful trends will be in the urban and suburban city types since they show the highest weekly fares. Another suggestion is to find dates with the lowest fares, we can maximize profit be reducing the amount of drivers during these dates. 
+Based on the pybear data analysis, it looks like holidays/social events can create uptrends for each city type.  A further analysis can be done to see which holidays/events respond to each city type the best.  The most impactful holiday/events trends will be in the urban and suburban city types since they show the highest weekly fares. Another suggestion is to find dates with the lowest fares, we can maximize profits by reducing the amount of drivers during these dates. 
 
